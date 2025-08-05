@@ -61,5 +61,6 @@ Time-series analysis of Microsoft’s stock prices and trends.
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/contactparthgadewar/)  
 [![Tableau](https://img.shields.io/badge/Tableau-Public-orange)](https://public.tableau.com/app/profile/parth.ratnakar.gadewar/vizzes)  
+📧 Email: parthrgadewar@gmail.com  
 
 
