@@ -10,7 +10,7 @@
 - 🎓 **Bachelor's in Computer Engineering** - SPPU, Pune, India
 - 🛠 Skilled in **Python, SQL, Excel, Tableau, Power Query, Power BI, Machine Learning**  
 - 📈 Experience in **data cleaning, visualization, predictive modelling, and KPI tracking**  
-- 💼 Professional background includes roles in **customer-facing, sales analytics, and data-driven insights**  
+- 💼 Professional background includes roles in sales analytics and data-driven insights**  
 
 ---
 
